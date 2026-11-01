@@ -1,0 +1,75 @@
+TÍTULO DO GUIA:
+Tradução PT-BR — Costume Quest + Grubbins on Ice
+
+CATEGORIA: Modificações
+
+TAGS: Portuguese, Translation, Localização, Tradução, PT-BR
+
+================================================================================
+
+[h1]🎃 Tradução Não Oficial para o Português Brasileiro[/h1]
+
+Tradução completa de [b]Costume Quest[/b] e da expansão [b]Grubbins on Ice[/b] para o Português Brasileiro, cobrindo 100% dos textos do jogo.
+
+[table]
+[tr][th]Strings traduzidas[/th][td]3.440 (jogo base) + 791 (DLC) = [b]4.231 strings[/b][/td][/tr]
+[tr][th]Cobertura[/th][td]100% — diálogos, menus, HUD, conquistas, missões[/td][/tr]
+[tr][th]Versão[/th][td]Steam (Build 2024)[/td][/tr]
+[/table]
+
+[hr][/hr]
+
+[h2]📥 Download[/h2]
+
+[url=https://github.com/crispinhatt/CostumeQuest1-Traducao-PTBR/releases]👉 GitHub — Releases[/url]
+
+Baixe o arquivo [b]CQ1_PTBR_Final.zip[/b] da versão mais recente.
+
+[hr][/hr]
+
+[h2]🛠️ Instalação[/h2]
+
+[olist]
+[*] No Steam, clique com o botão direito em [b]Costume Quest[/b] → [b]Gerenciar[/b] → [b]Navegar pelos arquivos locais[/b]
+
+[*] Navegue até a pasta [b]Win\Packs\[/b]
+
+[*] Faça [b]backup[/b] dos arquivos originais (renomeie adicionando [b].bak[/b] no final):
+[code]
+RgB_Stuff.~h   →   RgB_Stuff.~h.bak
+RgB_Stuff.~p   →   RgB_Stuff.~p.bak
+DLC1_Stuff.~h  →   DLC1_Stuff.~h.bak
+DLC1_Stuff.~p  →   DLC1_Stuff.~p.bak
+[/code]
+
+[*] Extraia o zip e copie os 4 arquivos da pasta [b]Win/Packs/[/b] para a pasta do jogo
+
+[*] Inicie o jogo — os textos estarão em Português Brasileiro!
+[/olist]
+
+[h2]🔄 Desinstalação[/h2]
+
+Restaure os arquivos [b].bak[/b] removendo a extensão, ou use:
+[b]Steam → Propriedades → Arquivos locais → Verificar integridade dos arquivos do jogo[/b]
+
+[hr][/hr]
+
+[h2]📸 Screenshots[/h2]
+
+[i](screenshots aqui)[/i]
+
+[hr][/hr]
+
+[h2]⚠️ Aviso Legal[/h2]
+
+Esta é uma tradução [b]não oficial[/b] criada por fãs, sem qualquer vínculo com a Double Fine Productions ou THQ Nordic. Distribuída gratuitamente.
+
+[hr][/hr]
+
+[h2]🤝 Outros projetos do mesmo autor[/h2]
+
+[list]
+[*] [url=https://github.com/crispinhatt/40kDeathwingEEBR]Space Hulk: Deathwing Enhanced Edition — PT-BR[/url]
+[*] [url=https://github.com/crispinhatt/DoWDE-Traducao-PTBR]Dawn of War: Definitive Edition — PT-BR[/url]
+[*] [url=https://github.com/crispinhatt/40kHeraldBR]Legacy of Dorn: Herald of Oblivion — PT-BR[/url]
+[/list]
